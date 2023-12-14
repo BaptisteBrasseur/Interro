@@ -1,0 +1,36 @@
+Théorie
+
+1. Non parce que la boucle for est une variante de la boucle while que l'on utilise lorsque le nombre d'itérations de la boucle nous est inconnu.
+Comme la boucle while possède un nombre d'itérations connu, on ne peut pas substituer la boucle for avec la boucle while.
+
+2. Les mots continue et break servent à interrompre une boucle avant qu'elle ne se finisse, ignorant le reste du code en dessous.
+Alors que le continue nous sert à ignorer le reste du code pour reprendre la boucle depuis le début à l'itération suivante, le break sert à stopper le programme lorsque la condition est remplie.
+
+3. Le front-end est la structure informatique accessible depuis le poste d'un utilisateur alors que le back-end est le code du programme uniquement accessible depuis le serveur contenant le code source.
+
+4. Les principaux types de données sont les entiers (integer), les rationnels (float), les chaînes de caractères (string), les dates (date) et les booléens (boolean).
+
+5. Oui parce que la conditon du if n'a pas forcement besoin de contenir de variable prédéfinie mais du coup la condition sera soit toujours vrai ou toujours faux limitant ainsi l'intérêt du if.
+
+6. Non parce que le break interrompt le programme au moment où le programme lit la fonction et l'exécute, même à l'intérieur d'un if.
+
+7. Les guillemets ("") servent à déclarer que le texte à l'intérieur est une chaîne de caractères sans quoi le programme l'interprèterait comme étant des variables.
+
+8. Pour concaténer les chaînes de caractères en PHP, on utilise l'opérateur "," entre les chaînes.
+
+9. !faux = vrai
+
+10. !((vrai || faux) && vrai) = ((vrai && faux) || vrai)
+
+11. 1000%100 = 0
+
+12. 526%23 = 12
+
+Algorithmie
+
+Je définis une variable compteur qui vaut 1
+Je démarre une boucle qui s'arrête lorsque la variable compteur dépasse 10
+J'affiche la valeur de la variable compteur
+J'incrémente le compteur en faisant +1
+Je ferme la boucle
+J'affiche le message "Bon anniversaire!"
